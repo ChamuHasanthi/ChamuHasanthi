@@ -82,6 +82,32 @@ Currently: Building scalable PMO systems
 
 ---
 
+## Research Topics
+
+### Construction Engineering, Automation, and AI (May 2026 - Present)
+Associated with Infinity AI (Pvt) Ltd.
+
+Focused on construction engineering, AI-assisted infrastructure intelligence, and automation workflows to improve productivity, safety, planning quality, and decision-making.
+
+Key directions:
+- Predictive monitoring and data-driven operational planning
+- AI-assisted and computer vision-supported construction monitoring
+- Workflow automation for modern construction ecosystems
+- Scalable digital transformation strategies for engineering operations
+
+### AI Research in Bioinformatics and Medical Imaging (Feb 2025 - Aug 2025)
+Associated with Infinity AI (Pvt) Ltd, in collaboration with Sri Lanka Medical Research Institute.
+
+Worked on healthcare-focused AI systems for medical image interpretation, pattern recognition, and machine learning-driven diagnostic support.
+
+Key directions:
+- Medical image analysis with AI and computer vision
+- Pattern recognition for clinical intelligence
+- Bioinformatics-informed data analysis and interpretation
+- Decision-support system concepts for healthcare environments
+
+---
+
 ## What I Deliver
 
 <div align="center">
@@ -250,7 +276,6 @@ Build cross-functional teams with accountability, clarity, and systems designed 
 </a>
 
 <br/><br/>
-
 </div>
 
 <!-- Animated Footer -->
