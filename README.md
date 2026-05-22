@@ -207,6 +207,16 @@ Build cross-functional teams with accountability, clarity, and systems designed 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamuHasanthi&theme=react-dark&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="92%" />
 
 </div>
+<br/>
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChamuHasanthi)](https://github.com/ChamuHasanthi/github-profile-trophy)
+
+</div>
+<br/>
 
 ---
 
